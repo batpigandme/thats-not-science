@@ -1,2 +1,2 @@
-# thats-not-science
-📽 the future home of my slides for "That's not [data] science!"
+# That's not [data] science!
+📽 Slides also available as SpeakerDeck: <https://speakerdeck.com/batpigandme/thats-not-data-science>
